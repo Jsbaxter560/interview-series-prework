@@ -115,29 +115,29 @@ Step One:
 
 Q: What are you going to do? 
 
-A: 
+A: // iterate through the array
 
 Q: How are you going to do it? 
 
-A: 
+A: // with a for loop
 
 Q: Why are you going to do it? 
 
-A: 
+A: // to capture numerical values of index items as well as number of index positions
 
 Step Two: 
 
 Q: What are you going to do? 
 
-A: 
+A: // take the values for index items and number of index positions in array and apply them to variable 'sum' and 'slots'
 
 Q: How are you going to do it? 
 
-A: 
+A: // with the apply method
 
 Q: Why are you going to do it? 
 
-A: 
+A: // to contain numerical value in one variable and number of index slots in another variable
 
 Step Three: 
 
